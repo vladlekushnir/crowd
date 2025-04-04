@@ -1,0 +1,169 @@
+.header {
+    display: flex;
+    height: 101px;
+    width: 100vw;
+    border-bottom: solid 2px grey;
+}
+
+.logo {
+    margin-left: 100px;
+}
+
+body {
+    margin: 0;
+}
+
+.menu-bar {
+    margin-left: 200px;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.content {
+    height: 1576px;
+    overflow-x: hidden;
+}
+
+.ml-250 {
+    margin-left: 250px;
+}
+
+.mt-150 {
+    margin-top: 150px;
+}
+
+.fs-50 {
+    font-size: 50px;
+}
+
+.red-list {
+    background-color: red;
+    color: white;
+    height: 180px;
+    width: 110%;
+    margin-left: -5%;
+    padding-top: 30px;
+    font-size: 25px;
+    padding-left: 25%;
+    transform: skewY(-13deg);
+}
+
+
+.News-part {
+    font-size: 18px;
+    margin-top: 220px;
+    margin-left: 20%;
+}
+
+.News-title {
+    font-size: 40px;
+    margin-left: 35%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.news-item1 {
+    display: flex;
+}
+.news-item2 {
+    display: flex;
+}
+.news-item3 {
+    display: flex;
+}
+.news-item4 {
+    display: flex;
+}
+.news-item5 {
+    display: flex;
+}
+
+.news-circle {
+    display: flex;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.News-content{
+    margin-top: 40px;
+}
+
+.news-item2{
+    margin-top: 20px;
+}
+
+.news-item3{
+    margin-top: 20px;
+}
+
+.news-item4{
+    margin-top: 20px;
+}
+
+.news-item5{
+    margin-top: 20px;
+}
+
+.button-one{
+    margin-top: 40px;
+    margin-left: 48%;
+}
+
+.button-group{
+    margin-top: 100px;
+}
+
+.button-group{
+    display: flex;
+}
+
+.fs-30{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.footer1{
+    display: flex;
+    height: 299px;
+    background-color: rgb(175, 175, 175);
+}
+
+.Contact{
+    font-size: 48px;
+    font-weight: 400px;
+    margin-top: 102px;
+    margin-left: 138px;
+}
+
+.contact-overview{
+    margin-left: 128px;
+    font-size: 24px;
+    font-weight: 400px;
+}
+
+.footer2{
+    height: 294px;
+    background-color: black;
+}
+
+.contact-form{
+    margin-top: 87px;
+    margin-left: 30%;
+    height: 100px;
+    width: 353px;
+    display: flex;
+    border: solid 2px rgb(134, 134, 134);
+}
+
+.footer2 {
+    display: flex;
+}
